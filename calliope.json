@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1-test",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Calliope-AI/calliope-cli/releases/download/v0.0.1-test/calliope_0.0.1-test_windows_amd64.zip",
+            "url": "https://github.com/Calliope-AI/calliope-cli/releases/download/v0.1.0/calliope_0.1.0_windows_amd64.zip",
             "bin": [
                 "calliope.exe"
             ],
-            "hash": "76dec668c25f583d35c798752deb92868fb43798f952ad0d633ddb08a56b694e"
+            "hash": "e1e9299fee3aa1620e30218740ee8c67585f512a4bb92bc499539114c57d2aef"
         },
         "arm64": {
-            "url": "https://github.com/Calliope-AI/calliope-cli/releases/download/v0.0.1-test/calliope_0.0.1-test_windows_arm64.zip",
+            "url": "https://github.com/Calliope-AI/calliope-cli/releases/download/v0.1.0/calliope_0.1.0_windows_arm64.zip",
             "bin": [
                 "calliope.exe"
             ],
-            "hash": "388df91b9b959cc3dc5c2ec07230edb4fcaf37be2755e3bf028303a4d62077e3"
+            "hash": "e82fb2221c914586fa5ee74b1041d41aa5c9105525b1d293ea46981074035892"
         }
     },
     "description": "CLI de Calliope Data"
